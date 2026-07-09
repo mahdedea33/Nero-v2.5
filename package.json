@@ -1,7 +1,7 @@
 {
-	"name": "NERO",
+	"name": "My name is Gon ",
 	"version": "2.5",
-	"description": "A simple Bot chat messenger bySIFO",
+	"description": "A simple Bot chat messenger مهدي",
 	"main": "index.js",
 	"dependencies": {
 		"@distube/ytdl-core": "^4.13.3",
